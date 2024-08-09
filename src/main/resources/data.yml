@@ -1,0 +1,23 @@
+ciftci_kaski:
+  permission: false
+  result:
+    -- ItemStack
+  ingredients:
+    0:
+      -- ItemStack
+    1:
+      -- ItemStack
+    2:
+      -- ItemStack
+    3:
+      -- ItemStack
+    4:
+      -- ItemStack
+    5:
+      -- ItemStack
+    6:
+      -- ItemStack
+    7:
+      -- ItemStack
+    8:
+      -- ItemStack
